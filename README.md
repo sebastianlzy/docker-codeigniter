@@ -1,3 +1,9 @@
+#Modified 
+
+- Added a new nginx/site-config file for codeigniter
+- Set memcached installation to true
+- run using `docker-compose up nginx mysql php-fpm`
+
 # LaraDock
 
 [![forthebadge](http://forthebadge.com/images/badges/built-by-developers.svg)](http://zalt.me)
